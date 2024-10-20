@@ -1,4 +1,6 @@
 # Bluesky for Terminal
+![alt text](image.png)
+
 
 Este projeto é uma ferramenta de linha de comando que permite fazer posts na plataforma Bluesky diretamente pelo terminal. Ele utiliza a biblioteca `atproto` para interagir com a API de Bluesky e o `Click` para a interface de linha de comando.
 
