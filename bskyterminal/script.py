@@ -1,6 +1,6 @@
 import click
 import os
-from index import loginClient,sendPost 
+from bskyterminal.index import loginClient,sendPost 
 
 
 @click.command()

@@ -10,6 +10,3 @@ def loginClient(login,password):
              
 def sendPost(user,post):
     user.send_post(post)
-    
-def testeWrite(login):
-    return "teste write"
